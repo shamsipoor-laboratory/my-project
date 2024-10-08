@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>مشخصات سیگنال ژنراتور LAG-27</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            background: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        .specs {
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>سیگنال ژنراتور LAG-27</h1>
+        <h2>مشخصات عمومی</h2>
+        <div class="specs">
+            <p><strong>نام تجهیز:</strong> سیگنال ژنراتور</p>
+            <p><strong>مدل:</strong> LAG-27</p>
+            <p><strong>شرکت سازنده:</strong> Leader Electronics Corp.</p>
+            <p><strong>کشور سازنده:</strong> ژاپن</p>
+        </div>
+        
+        <h2>مشخصات فنی</h2>
+        <div class="specs">
+            <p><strong>محدوده فرکانسی:</strong> 10 هرتز تا 100 کیلوهرتز</p>
+            <p><strong>تنظیمات دامنه فرکانس:</strong> شامل ضرایب 1، 10، 100، 1k و 10k</p>
+            <p><strong>خروجی صوتی:</strong> قابلیت تنظیم شدت صوت (High/Low)</p>
+            <p><strong>موج شکل:</strong> قابلیت انتخاب شکل موج خروجی (مانند موج سینوسی)</p>
+            <p><strong>کالیبراسیون:</strong> نیاز به کالیبراسیون سالانه</p>
+        </div>
+        
+        <h2>محل نصب</h2>
+        <p>آزمایشگاه کنترل خطی، طبقه سوم، اتاق 309</p>
+        
+        <h2>تعداد موجود</h2>
+        <p>4 عدد</p>
+        
+        <h2>نکات ایمنی</h2>
+        <p>قبل از استفاده، مطمئن شوید که کابل‌های ورودی به دستگاه به درستی متصل شده و ولتاژ ورودی مطابق با توان دستگاه باشد.</p>
+    </div>
+</body>
+</html>
